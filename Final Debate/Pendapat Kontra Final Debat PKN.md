@@ -1,5 +1,7 @@
 # Urgensi Revisi PP 82/2012 tentang Penyelenggaraan Sistem dan Transaksi Elektronik terhadap Kedaulatan dan Keamanan Siber di Indonesia
 
+Ana Rochana, I Gede Respa, Satrya Mahardhika
+
 ## Penjelasan Awal
 Revisi PP no 82/2012 tentang PSTE menuai polemik. Pangkal masalahnya adalah pengaturan kembali lokasi pusat data (data center).
 Dalam aturan yang berlaku saat ini, semua data center harus berlokasi di Indonesia. Namun kemenkominfo berencana memberikan kelonggaran lokasi data center.
