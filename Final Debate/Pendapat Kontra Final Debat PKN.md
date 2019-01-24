@@ -6,20 +6,19 @@ Ana Rochana, I Gede Respa, Satrya Mahardhika
 Revisi PP no 82/2012 tentang PSTE menuai polemik. Pangkal masalahnya adalah pengaturan kembali lokasi pusat data (data center).
 Dalam aturan yang berlaku saat ini, semua data center harus berlokasi di Indonesia. Namun kemenkominfo berencana memberikan kelonggaran lokasi data center.
 Dalam revisinya "data yang bersifat strategis dan penting bagi negara yang data centernya wajib berada di Indonesia"
+a
+Alasan kami menolak adanya revisi terhadap PP PSTE khususnya pasal 17 adalah sebagai berikut :
+1. Data sebagai sumber daya strategis
+2. Belum adanya UU perlindungan data Pribadi
+3. Potensi pemasukan kas negara
 
+Menurut Ketum IDPRO, Kalamullah Ramli, kewajiban penempatan data center di Indonesia untuk para  pelaku Penyelenggara Sistem Elektronik bertujuan untuk melayani publik dimana ini menyangkut masalah:  
+- kedaulatan data,
+- ketahanan Informasi,
+- keamanan data publik,
+- penegakan hukum di zaman digital
+- kepentingan industri nasional yang perlu diutamakan.
 
-
-## BACA 1
-
-Kasubdit Pengendalian Konten Internet Kementerian Komunikasi dan Informatika (Kominfo) Anthonius Malau
-
-"Selain itu juga, jika kewajiban di pasal 17 dilanggar, tidak ada sanksinya. Ini membuat implementasinya tidak efektif, terus terang saja ini," ucapnya menambahkan.
-
-Kewajiban yang dimaksud Anthonius dalam Pasal 17 PP PTSE adalah keharusan untuk menyimpan data center dan data recovery center di Indonesia. Sedangkan tujuan dari kewajiban tersebut adalah untuk penegakan hukum, menjamin kedaulatan negara, dan melindungi data warga negara.
-
-"Pada 2010-an, sangat marak kasus-kasus korupsi di republik ini. Ketika aparat penegak hukum hendak mencari data, itu mereka ke luar, dan kebetulan datanya banyak ditempatkan di luar negeri," tutur Anthonius.
-
-"Jadi alat bukti yang dibutuhkan aparat penegak hukum itu banyak di luar yurisdiksi indonesia. Sehingga dibuatlah salah satunya ini. Makanya jika dilihat, kewajibannya ada di pasal 17 itu," ujarnya menambahkan.
 
 ## FACTS
 ### SATU (Penolakan revisi PP PSTE)
@@ -47,7 +46,7 @@ Mengeluarkan pernyataan bersama terkait sikap keberatan dan penolakan atas renca
   6. sebaran geografis/gender/umur/kota
   7. pemetaan potensi/minat Masyarakat
   8. Beragam analisa untuk kepentingan negara
-- Membiarkan data Indonesia berada di luar negeri dan dikuasai oleh negara lain, akan berakibat buruk bagi kedaulatan dan Keamanan siber indonesia.
+- Membiarkan big data Indonesia berada di luar negeri dan dikuasai oleh negara lain, akan berakibat buruk bagi kedaulatan dan Keamanan siber indonesia.
 
 ### TIGA (Manfaat Pusat Data Ditempatkan di indonesia)
 - Memantapkan kedaultan Indonesia atas data
@@ -70,20 +69,12 @@ Saat ini Indonesia belum kunjung mengesahkan UU Perlindungan Data Pribadi. Sehin
 
 Dengan adanya revisi thd PP PSTE ini, akan menyebabkan timbulnya dampak negatif yakni berupa pemanfaatan data oleh pihak tertentu dengan sewenang-wenang.
 
-### ENAM (Tujuan Data Center berada di Indonesia sesuai PP sebelum revisi)
 
-Menurut Ketum IDPRO, Kalamullah Ramli, kewajiban penempatan data center di Indonesia untuk para  pelaku Penyelenggara Sistem Elektronik bertujuan untuk melayani publik dimana ini menyangkut masalah:  
-- kedaulatan data,
-- ketahanan Informasi,
-- keamanan data publik,
-- penegakan hukum di zaman digital
-- kepentingan industri nasional yang perlu diutamakan.
-
-### TUJUH (Potensi Pemasukkan Kas Negara )
+### ENAM  (Potensi Pemasukkan Kas Negara )
 
 Ketua Asosiasi Cloud dan Hosting Indonesia (ACHI) Rendy Maulana menyatakan bahwa pada tahun 2018 saja,  Indonesia memiliki potensi investasi sebesar 2,8 miliar dolar AS dari bisnis cloud dan hosting di Indonesia. jika para provider bisnis tersebut membangun pusat data di Indonesia, pendapatan 280 juta dolar AS diperkirakan akan masuk ke kas negara. Namun, potensi ini akan hilang bila pemerintah tidak lagi mewajibkan perusahaan untuk memiliki pusat data di dalam negeri.
 
-### DELAPAN (Kebijakan revisi PP terlalu Pro-Asing)
+### TUJUH (Kebijakan revisi PP terlalu Pro-Asing)
 Menurut Pratama Persadha, Direktur Communication and Information System Security Research Center (CISSRec) kebijakan revisi tersebut terlalu pro-asing dan seolah membuat Indonesia kembali terjajah. siapa pun yang bisa mengakses secara fisik ke peladen (server) dan jaringan akan sangat mudah melakukan apa pun terhadap isi peladen atau jaringan tersebut. Mulai dari pencurian data, monitoring lalu lintas data, pengopian data server, bahkan dengan merusak semua data dan sistem jaringan.
 
 "Orang yang bisa mengakses data center, punya server, bisa punya akses masuk ke dalam, kalau kami bilang "Dewanya Jaringan". Dia mau ngapain aja bisa" Kata Pratama
@@ -92,3 +83,12 @@ Pembangunan data center wajib di Indonesia dapat dilihat dari 3 hal :
 - Berada di Wilayah Hukum indonesia
 - Secara fisik server penyimpanan data tersebut juga berada di indonesia
 - Infrastruktur untuk mengakses data berada dalam lingkup pengawasan pemerintah atau lembaga yang ditunjuk oleh pemerintah.
+
+### DELAPAN (TRUMP berhasil memenangkan Pemilu karena menguasai Big Data)
+- Beberapa waktu lalu, sempat heboh dengan bocornya data pengguna Facebook. Kurang lebih 50 juta data pengguna FB di amerika, juga termasuk 1 juta pengguna FB di Indonesia.
+- Data tersebut digunakan oleh Cambridge Analytic untuk menganalisa dan menyusun strategi pemenangan Trump pada Pilpres di AS.
+- Tidak hanya riset dan analisis, CA juga yang melakukan kampanye digital dan kampanye di televisi. Strategi tersebut di peroleh dari hasil data yang telah diolah.
+- Dengan menguasai Big Data penduduk AS, CA dapat menentukan beberapa hal yang menunjang pemenangan Trump :
+  1. Kampanye di tempat yang tempat
+  2. Membuat keputusan memilih para swing-voters untuk cenderung kepada TRUMP
+  3. Mengubah pemikiran para Haters
