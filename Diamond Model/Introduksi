@@ -1,0 +1,64 @@
+# Introduksi Diamond Model
+Satrya Mahardhika
+## Latar Belakang
+Diamond model of Intrusion Analysis merupakan suatu teknik pemodelan serangan. Model ini terdiri dari 4 fitur utama (Core-Feautures) yakni adversary, victim, infrastrucutre, dan capability. Dalam pemodelannya, keempat fitur utama saling terhubung dengan garis yang menggambarkan hubungan antara fitur dengan membentuk sebuah diamond. Model ini menggambarkan bagaimana sebuah adversary  mengerahkan capability yang dimiliki untuk menyerang victim melalui suatu infrastructure
+
+## Tujuan Diamond model
+Diamond model bertujuan untuk menyediakan sebuah metode formal dalam intrusion analysis dengan mengaplikasikan prinsip-prinsip scientific. Prinsip-prinsip scientific yang dimaksud adalah pengukuran, dapat diuji, dan dapat diulang -- untuk menyediakan sebuah metode yang sederhana, formal dan komprehensif dalam melakukan dokumentasi, sintesis dan korelasi.
+
+## Diamond Event
+  Sebuah event menggambarkan aktivitas yang terbatas pada suatu fase dimana sebuah adversary membutuhkan external resources, menggunakan capability dan metodologi yang dimiliki untuk menyerang victim melalui infrastructure dengan tujuan mencapai sebuah result (hasil).
+
+#### Axiom 1
+For every intrusion event there exists an adversary taking a step towards an intended goal by using a capability over infrastructure against a victim to produce a result.
+
+
+### Core-features
+Core-feature merupakan komponen utama penyusun diamond model, yang terdiri dari adversary, capability, infrastructure dan victim
+
+### Meta-Features
+Meta-features pada Diamond Model terdiri dari timestamp, phase, result, direction, methodology, dan resources. Meta-feature berfungsi untuk mengurutkan event pada sebuah activity thread.
+
+### Confidence Value
+Pada setiap fitur dalam diamond event, baik core-feature ataupun meta-feature, memiliki sebuah confidence value. Confidence value dapat berupa nilai kepercayan dari sebuah analytic conclusion atau berupa keakuratan sumber data.
+
+## Core-Feature
+#### Axiom 2
+Terdapat  musuh (orang dalam, orang luar, individu, kelompok,
+dan organisasi) yang berupaya untuk mengkompromikan sistem atau jaringan komputer untuk menjalankan niat mereka dan memenuhi kebutuhan mereka.
+
+### Adversary
+Adversary merupakan pihak/organisasi yang bertanggungjawab atas penggunaan capability terhadap victim untuk meraih tujuan mereka. Terdapat dua jenis adversary :
+
+#### Adversary Operator
+Merupakan hacker atau orang yang benar-benar melakukan serangan.
+
+#### Adversary Customer
+Merupakan entitas yang memanfaatkan hasil dari serangan yang dilakukan. Entitas ini bisa jadi sama dengan adversary operator atau bisa juga pihak lain yang berbeda.
+
+### Capability
+Fitur capability menggambarkan tools atau teknik yang digunakan oleh adversary pada suatu event.
+
+#### Capability Capacity
+Seluruh kerawanan dan exposures yang dapat digunakan.
+
+#### Adversary Arsenal
+Merupakan satu set lengkap kemampuan yang dimiliki oleh adversary.
+
+### Infrastructure
+Fitur Infrastructure menggambarkan struktur komunikasi atau jaringan secara lojik maupun fisik yang digunakan oleh adversary untuk mengirimkan capability kepada victim. Contoh dari infrastructure adalah alamat IP, domain, alamat e-mail, USB, dan lainnya. Dalam Diamond Model, terdapat dua tipe infrastructure.
+
+#### Tipe 1
+Infrastruktur yang secara penuh dikendalikan oleh adversary.
+
+#### Tipe 2
+Infrastruktur yang dikendalikan oleh sebuah perantara. Beberapa contohnya yakni zombie hosts, malware, malicious domain names, akun e-mail yang telah kompromi dan lainnya.
+
+### Victim
+Victim merupakan entitas yang menjadi target serangan yang dilakukan oleh adversary. Dalam Diamond Model victim dapat dijelaskan dalam bentuk organisasi, orang, target, alamat e-mail, alamat IP, domain, dan lainnya. Terdapat dua jenis victim :
+
+#### Victim Persona
+Victim Persona merupakan orang atau organisasi pemilik asset yang diserang oleh adversary. Victim Persona dapat berupakan nama organisasi, nama orang, perusahaan, jabatan, dan lainnya.
+
+#### Victim Asset
+Victim Asset merupakan asset yang diserang oleh adversary. Victim Asset dapat berupa jaringan, sistem, host, alamat e-mail, alamat IP, akun sosial media dan lainnya. 
